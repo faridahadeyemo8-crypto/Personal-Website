@@ -30,7 +30,7 @@ This project does not require any environment variables.
 
 
 Live Website
-https://github.com/faridahadeyemo8-crypto/Personal-Website.git
+https://faridahadeyemo8-crypto.github.io/Personal-Website/
 
 Features
 
