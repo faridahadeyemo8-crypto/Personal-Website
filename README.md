@@ -7,4 +7,4 @@ It includes HTML, CSS, and images showcasing my skills and projects.
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FaridahAdeyemo/personal-website.git
+   git clone https://github.com/faridahadeyemo8-crypto/Personal-Website.git
