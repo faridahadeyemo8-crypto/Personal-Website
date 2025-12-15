@@ -34,11 +34,11 @@ https://faridahadeyemo8-crypto.github.io/Personal-Website/
 
 Features
 
-Clean and responsive design
+-Clean and responsive design
 
-Organized sections: About Me, Projects, Contact
+-Organized sections: About Me, Projects, Contact
 
-Fully HTML/CSS based for portability and easy maintenance
+-Fully HTML/CSS based for portability and easy maintenance
 
 
 License
