@@ -19,9 +19,6 @@ https://github.com/faridahadeyemo8-crypto/Personal-Website
 
 2. Navigate to the project folder:
 
-https://github.com/faridahadeyemo8-crypto/Personal-Website
-
-
 3. Open index.html in your preferred web browser.
 
 
